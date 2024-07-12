@@ -1,0 +1,7 @@
+Zadanie projektowe 
+
+Aplikacja ma za zadanie wykonywać pomiar modułu i fazy impedancji dwójnika metodą
+trzech woltomierzy gdzie: |Z|=f(f), kąt=f(f) w funkcji częstotliwości.
+
+
+Autor: Karol Popiel
